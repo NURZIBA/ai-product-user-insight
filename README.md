@@ -6,7 +6,9 @@
 
 ## 在线体验
 
-打开 `index.html` 即可本地浏览。项目为纯 HTML/CSS/JavaScript，无需安装依赖，也适合直接部署至 GitHub Pages。
+**[点击打开在线交互演示](https://nurziba.github.io/ai-product-user-insight/)**
+
+也可以打开 `index.html` 本地浏览。项目为纯 HTML/CSS/JavaScript，无需安装依赖。
 
 ## 项目目标
 
